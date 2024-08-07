@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KarunAtreya&theme=swift" height="180em"  />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-etails?username=KarunAtreya&theme=swift" height="180em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarunAtreya&theme=swift" height="180em" />
 
 </div>
 
